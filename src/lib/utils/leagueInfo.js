@@ -9,10 +9,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p> Welcome to the Iain F. Scott Fantasy Football Invitational Website..</p>
   <p>This site will update through the Sleeper App and Website. .</p>
-  <p> .</p>
-  <p>.</p>
-  <p>.</p>
-  <p></p>
+  <p> </p>
+  <p> </p>
+  <p> </p>
+  <p> </p>
 `;
 
 /*   STEP 3   */
