@@ -9,10 +9,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p> Welcome to the Iain F. Scott Fantasy Football Invitational Website..</p>
   <p>This site will update through the Sleeper App and Website. .</p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
+  <p> Neither the W. Iain Scott Football Invitational (hereinafter the "League") nor your beloved Commissioner </p>
+  <p> (hereinafter the "Commish" or the "Darwish" shall be held liable for any transactions or decisions made </p>
+  <p> based on the information provided on this site.  </p>
+  <p> This page updates based on the Sleeper app and Sleeper website. Please, refrain from saying ouuuuuuu to </p>
+  <p> me, the league groupchat, or in general. Let's have some fun. </p>
 `;
 
 /*   STEP 3   */
